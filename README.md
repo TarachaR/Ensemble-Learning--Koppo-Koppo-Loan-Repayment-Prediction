@@ -5,11 +5,12 @@
 
 > Date: 03/02/2021
 
-![cutomer churn header](https://user-images.githubusercontent.com/67068918/100549903-0de4bc00-3287-11eb-855c-d88a391b50f0.png)
+![Ensemble 1](https://user-images.githubusercontent.com/67068918/106790539-c43c9700-6664-11eb-9e48-333a125ec04b.png)
 
 ---
 
 ### Table of Contents
+- [Background Information](#backgroung-information)
 - [Understanding The Context](#understanding-the-context)
 - [Project Deliverable](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
