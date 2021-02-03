@@ -51,8 +51,10 @@ Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging 
 **Dataset 1 name:** kopokopo_dataset - datasets_602860_1082167_SBAcase.11.13.17 
 </br>
 **Dataset 2 name:** kopokopo_clean.csv
+
 </br>
-**Dataset URL:**https://bit.ly/KoppoKoppoDS
+
+**Dataset URL:** https://bit.ly/KoppoKoppoDS
 
 **Dataset Glossary Name:** Koppokoppo - Glossary - t0001-10.1080_10691898.2018.1434342 (1).csv
 </br>
