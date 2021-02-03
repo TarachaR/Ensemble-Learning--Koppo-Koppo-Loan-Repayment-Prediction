@@ -23,6 +23,7 @@
 
 ## Background Information
 Koppokoppo, is a company that offers market-appropriate solutions to enable and incentivize businesses to go digital. The company partners with financial institutions, mobile operators and major retailers who are interested in marketing new payment services to small and medium enterprises. In turn, the company offers small and medium enterprises loans.
+</br>
 Website: https://kopokopo.co.ke/
 
 ## Understanding The Context
@@ -47,6 +48,7 @@ Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging 
 * Notebook name: Ensemble Learning with Scikit-Learn.ipynb
 
 Dataset 1 name: kopokopo_dataset - datasets_602860_1082167_SBAcase.11.13.17 
+</br>
 Dataset 2 name: kopokopo_clean.csv
 </br>
 Dataset URL = https://bit.ly/KoppoKoppoDS
