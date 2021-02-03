@@ -10,7 +10,7 @@
 ---
 
 ### Table of Contents
-- [Background Information](#backgroung-information)
+- [Background Information](#background-information)
 - [Understanding The Context](#understanding-the-context)
 - [Project Deliverable](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
