@@ -72,7 +72,7 @@ NB: Each row represents a customer, each column contains customer’s attributes
 2. Data Importation.
 3. Data Exploration.
 4. Data Cleaning.
-5. Data Analysis (Univariate & Bivariate analysis using Pandas as we had a numerous number of features)
+5. Data Analysis (Univariate & Bivariate analysis using Pandas as we had a numerous number of features) </br>
 **Pandas Profiling Report**: output.html
 6. Data Preparation
 7. Data modelling.
