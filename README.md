@@ -5,7 +5,7 @@
 
 > Date: 03/02/2021
 
-![kopo-kopo](https://user-images.githubusercontent.com/67068918/106791402-ebe02f00-6665-11eb-9892-c74f7ba5b9cc.png)
+![kopo2](https://user-images.githubusercontent.com/67068918/106792887-c6ecbb80-6667-11eb-8195-04b4a0e3eaf6.png)
 
 ---
 
