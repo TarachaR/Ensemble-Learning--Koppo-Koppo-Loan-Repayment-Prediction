@@ -86,29 +86,29 @@ NB: Each row represents a customer, each column contains customer’s attributes
 ---
 
 ## Summary Of Findings
-* This dataset is very biased: it has disproportionate numbers of those with international plans vs those without international plans, and of those who churned vs those who didn't. Also, this dataset had more records of customers from Area Code 415. Hence, the results cannot really be trusted.
+* The ensemble learning classifiers and the decision tree classifier returned 100% accuracy scores with no false positives or false negatives.
 
-* However, from our analysis, we see that customers who made at least 2 calls to customer service are likely to churn.
-
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
-## Recommendations
-The company should come up with a solution that caters to customers that make two or more calls to customer service. They should also collect more data, preferably those that will make the current dataset more balanced, e.g., more customers from Area Codes 408 and 510, more customers who churned, and more customers subscribed to the international plan.
+## Recommendations / Conclusions
+While these are great scores, I would recommend that the decision makers at Koppokoppo exercise caution while using these methods due to overfitting. Just because the models were perfectly accurate with this data does not mean the same will happen with different data.
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
 ## Challenging your Solution
-* Firstly, a balanced dataset needs to be obtained, where the differences between the distinct values in the 'international_plan' and 'churn' variables are not so great.
+* Meeting the assumptions of the algorithms (e.g., no multicollinearity, normality, etc. for logistic regression)
 
-* Secondly, all other assumptions need to be met, such as no influential values (outliers)in predictor variables before applying logistic regression.
+* Performing hyperparameter tuning.
 
-* Finally, hyperparameter tuning should be carried out on the current models to improve them.
+* Feature selection - discarding the features considered unnecessary or unimportant.
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+* Cross Validation
+
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
@@ -117,4 +117,4 @@ The company should come up with a solution that caters to customers that make tw
 - Twitter - https://twitter.com/Vycellous_Drum
 - Website - https://richardtaracha.glitch.me/
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
