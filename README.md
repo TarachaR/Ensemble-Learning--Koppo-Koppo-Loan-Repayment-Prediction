@@ -1,4 +1,4 @@
-# Predicting-Loan-Repayment--Ensemble-Learning
+# Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction
 ---
 
 > Author: Richard Taracha
@@ -36,22 +36,23 @@ As a Data Scientist, you are required to create a model that will allow Koppokop
 - Matplotlib
 - Scikit-Learn
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
 ## Project Deliverable
-Deliverable is a Python notebook with the Classification Analysis.
+Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging and Boosting).
 
-* Notebook name: Customer churn prediction.ipynb
+* Notebook name: Ensemble Learning with Scikit-Learn.ipynb
 
-Dataset name: call-center-data-QueryResult 
+Dataset 1 name: kopokopo_dataset - datasets_602860_1082167_SBAcase.11.13.17 
+Dataset 2 name: kopokopo_clean.csv
 </br>
-Dataset URL = https://bit.ly/MTNTelcoDataset
+Dataset URL = https://bit.ly/KoppoKoppoDS
 
-Dataset Glossary Name: classification_analysis_glossary
+Dataset Glossary Name: Koppokoppo - Glossary - t0001-10.1080_10691898.2018.1434342 (1).csv
 </br>
-Dataset Glossary Download Link: https://bit.ly/3gTideq
+Dataset Glossary Download Link: https://bit.ly/KoppokoppoGlossary
 
 
 NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
