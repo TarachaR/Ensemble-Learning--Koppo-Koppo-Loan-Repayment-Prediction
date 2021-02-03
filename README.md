@@ -21,9 +21,12 @@
 
 ---
 
+## Background Information
+Koppokoppo, is a company that offers market-appropriate solutions to enable and incentivize businesses to go digital. The company partners with financial institutions, mobile operators and major retailers who are interested in marketing new payment services to small and medium enterprises. In turn, the company offers small and medium enterprises loans.
+
 ## Understanding The Context
 
-Working as a Data Scientist for MTN Africa, a leading Telecommunications Company in Africa, there is an effort to understand the behaviour of the company's customers, you are tasked to analyze relevant customer data and develop a solution that will help determine whether a customer will churn. Use the provided dataset to implement your solution. In addition, you will be expected to help relevant stakeholders understand the potential of your developed solution.
+As a Data Scientist, you are required to create a model that will allow Koppokoppo to provide a solution is able to predict whether a loan offered to the certain small and medium enterprise will be paid off.
 
 #### Technologies and Tools
 
