@@ -23,6 +23,7 @@
 
 ## Background Information
 Koppokoppo, is a company that offers market-appropriate solutions to enable and incentivize businesses to go digital. The company partners with financial institutions, mobile operators and major retailers who are interested in marketing new payment services to small and medium enterprises. In turn, the company offers small and medium enterprises loans.
+Website: https://kopokopo.co.ke/
 
 ## Understanding The Context
 
@@ -57,7 +58,7 @@ Dataset Glossary Download Link: https://bit.ly/KoppokoppoGlossary
 
 NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
