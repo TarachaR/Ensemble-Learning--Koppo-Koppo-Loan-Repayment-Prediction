@@ -68,18 +68,19 @@ NB: Each row represents a customer, each column contains customer’s attributes
 ---
 
 ## Recording the Experimental Design
-1. Load libraries and dataset.
-2. Deal with duplicates and missing data.
-3. Find and deal with other anomalies.
-4. Drop unnecessary columns.
-5. Perform univariate and bivariate analysis.
-6. Test formulticollinearity.
+1. Define the Research Question.
+2. Data Importation.
+3. Data Exploration.
+4. Data Cleaning.
+5. Data Analysis (Univariate & Bivariate analysis using Pandas as we had a numerous number of features)
+6. Data Preparation
 7. Data modelling.
-8. Summarize findings.
-9. Make recommendations.
-10. Challenge solution.
+8. Model Evaluation.
+9. Summary of Findings
+10. Recommendations / Conclusions
+11. Challenge solution.
 
-[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
+[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
 ---
 
