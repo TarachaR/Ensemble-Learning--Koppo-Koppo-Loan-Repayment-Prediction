@@ -5,7 +5,7 @@
 
 > Date: 03/02/2021
 
-![kopo2](https://user-images.githubusercontent.com/67068918/106792887-c6ecbb80-6667-11eb-8195-04b4a0e3eaf6.png)
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/67068918/215316111-fe904f3e-8c29-4d56-92b8-1e37a95523ce.gif">
 
 ---
 
@@ -118,3 +118,7 @@ While these are great scores, I would recommend that the decision makers at Kopp
 - Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+
+![Premium-Man-getting-loan-granted-by-bank-Animated-Icon-download-in-JSON_-LOTTIE-or-MP4-format](https://user-images.githubusercontent.com/67068918/215316111-fe904f3e-8c29-4d56-92b8-1e37a95523ce.gif)
+
+
