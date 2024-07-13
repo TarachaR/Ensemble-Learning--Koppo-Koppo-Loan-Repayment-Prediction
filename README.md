@@ -116,6 +116,4 @@ While these are great scores, I would recommend that the decision makers at Kopp
 
 [Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
 
-![Premium-Man-getting-loan-granted-by-bank-Animated-Icon-download-in-JSON_-LOTTIE-or-MP4-format](https://user-images.githubusercontent.com/67068918/215316111-fe904f3e-8c29-4d56-92b8-1e37a95523ce.gif)
-
 
