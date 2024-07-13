@@ -1,4 +1,4 @@
-# Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction
+# KOPPO KOPPO - Ensemble Learning- Small Business Loan Repayments
 ---
 
 ![Enhancing Financial Decision-Making for SMEs](https://github.com/user-attachments/assets/113512de-ff4b-4226-b0ef-b9aa34a9d5c3)
