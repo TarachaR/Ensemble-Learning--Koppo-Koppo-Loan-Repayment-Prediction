@@ -1,11 +1,8 @@
 # Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction
 ---
 
-> Author: Richard Taracha
+![Enhancing Financial Decision-Making for SMEs](https://github.com/user-attachments/assets/113512de-ff4b-4226-b0ef-b9aa34a9d5c3)
 
-> Date: 03/02/2021
-
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/67068918/215316111-fe904f3e-8c29-4d56-92b8-1e37a95523ce.gif">
 
 ---
 
